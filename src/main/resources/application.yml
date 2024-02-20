@@ -1,5 +1,7 @@
 server:
   port: 8762
+  use-forward-headers: true
+
         
 ## Classic Eureka configuration
 eureka:
